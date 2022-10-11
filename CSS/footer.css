@@ -69,3 +69,7 @@
     max-width: 30px;
     display: flex;
 }
+
+.footer ul {
+    list-style: none;
+}
